@@ -1,0 +1,7 @@
+{
+    "language": "JavaScript",
+    "style": "Use camelCase for variables and PascalCase for classes",
+    "structure": "Organize code in modules using ES6 imports/exports",
+    "comments": "Add JSDoc for public functions"
+  }
+  
