@@ -1,0 +1,9 @@
+{
+    "language": "JavaScript",
+    "structure": "Use folders for routes, controllers, services, and datastores",
+    "style": "Use async/await and modular ES6 syntax",
+    "controller": "Should only handle request/response logic and call services",
+    "service": "Contain business logic and call into datastores",
+    "datastore": "Simulate database access and return hardcoded/mock data for now"
+  }
+  
